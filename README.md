@@ -40,5 +40,5 @@ Feel free to contribute by forking the repository and creating a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [OussNad](LICENSE).
 
